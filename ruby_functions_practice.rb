@@ -90,10 +90,8 @@ def number_to_short_month_name(month)
   else
     return "No month available"
 end
+end
 
 def volume_of_cube(side)
   return side**3
-end
-
-
 end
