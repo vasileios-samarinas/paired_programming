@@ -92,10 +92,12 @@ def number_to_short_month_name(month)
 end
 end
 
+
 def volume_of_cube(side)
-  return side**3
+  volume=side**3
+  return volume
 end
 
 def fahrenheit_to_celsius(degree)
-  return (degree*1.8)+32  
+  return (degree*1.8)+32
 end
